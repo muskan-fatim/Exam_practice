@@ -1,0 +1,7 @@
+[project]
+name = "personality_anaylzer"
+version = "0.1.0"
+description = "ask the random question and analyze your personality_anaylzer"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
