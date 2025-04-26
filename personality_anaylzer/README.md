@@ -1,4 +1,4 @@
-# 🧠 Personality Analyzer (Streamlit App)
+# 🧠 Personality Analyzer
 
 This is a simple and interactive web application that analyzes a user's personality based on their answers to a set of questions. It helps determine whether the user is an **Introvert**, **Extrovert**, or **Ambivert**.
 
